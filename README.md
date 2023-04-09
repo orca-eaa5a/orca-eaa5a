@@ -1,6 +1,13 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orca-eaa5a&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=orca-eaa5a&show_icons=true">
+
+### 🌱 Interesting
+1. Cloud Environment & Security
+2. Application Modernization
+
 ### Contact
 ---
-📧 orac_eaa5a@naver.com / dlfguswn@naver.com
+📧 orac_eaa5a@naver.com
 
 📘 [notion](https://tricky-holly-b02.notion.site/8ffe439bc34a4b1eb64fbe763dd931c4?v=e0187d38283c4ba8bdf532ff11b8b556)
 
@@ -21,10 +28,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/reverse engineering-F02E65?style=for-the-badge"><img src="https://img.shields.io/badge/Incidence Response-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Malware Analysis-FF0000?style=for-the-badge">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orca-eaa5a&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=orca-eaa5a&show_icons=true">
 
 ---
-### 🌱 Interesting
-1. Cloud Environment & Security
-2. Application Modernization
