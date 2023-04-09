@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"><img src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=dynamodb&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/cloudformation-569A31?style=for-the-badge&logo=aws&logoColor=white">
 </p>
-</br>
+
 ### Special Tech
 <p align="center">
 <img src="https://img.shields.io/badge/reverse engineering-F02E65?style=for-the-badge"><img src="https://img.shields.io/badge/Incidence Response-000000?style=for-the-badge"><img src="https://img.shields.io/badge/Malware Analysis-FF0000?style=for-the-badge">
