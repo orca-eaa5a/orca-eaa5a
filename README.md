@@ -1,4 +1,7 @@
-### Hi there 👋
+### Think Different, Act Different!
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orca-eaa5a&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orca-eaa5a&show_icons=true&theme=radical)
 <!--
 **orca-eaa5a/orca-eaa5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
